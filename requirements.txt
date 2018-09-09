@@ -1,2 +1,3 @@
 sphinx
 sphinx_theme
+guzzle_sphinx_theme
